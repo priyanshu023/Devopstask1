@@ -1,2 +1,2 @@
 sudo mkdir ssmpriyanshu
-sudo touch ssmdoc.txt /home/ssh-user/ssmpriyanshu
+sudo touch ssmdoc.txt /home/ssm-user/ssmpriyanshu
